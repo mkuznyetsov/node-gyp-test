@@ -1,0 +1,713 @@
+yarn install v1.22.10
+verbose 0.265061756 Checking for configuration file "/home/mykhailo/projects/node-gyp-test/.npmrc".
+verbose 0.265620301 Checking for configuration file "/home/mykhailo/.npmrc".
+verbose 0.265845821 Checking for configuration file "/home/mykhailo/.nvm/versions/node/v18.18.2/etc/npmrc".
+verbose 0.266062164 Checking for configuration file "/home/mykhailo/projects/node-gyp-test/.npmrc".
+verbose 0.26626214 Checking for configuration file "/home/mykhailo/projects/.npmrc".
+verbose 0.266599401 Checking for configuration file "/home/mykhailo/.npmrc".
+verbose 0.266808812 Checking for configuration file "/home/.npmrc".
+verbose 0.267973572 Checking for configuration file "/home/mykhailo/projects/node-gyp-test/.yarnrc".
+verbose 0.268242062 Found configuration file "/home/mykhailo/projects/node-gyp-test/.yarnrc".
+verbose 0.268684931 Checking for configuration file "/home/mykhailo/.yarnrc".
+verbose 0.269019473 Found configuration file "/home/mykhailo/.yarnrc".
+verbose 0.269356189 Checking for configuration file "/home/mykhailo/.nvm/versions/node/v18.18.2/etc/yarnrc".
+verbose 0.269656171 Checking for configuration file "/home/mykhailo/projects/node-gyp-test/.yarnrc".
+verbose 0.269826856 Found configuration file "/home/mykhailo/projects/node-gyp-test/.yarnrc".
+verbose 0.270210295 Checking for configuration file "/home/mykhailo/projects/.yarnrc".
+verbose 0.270439891 Checking for configuration file "/home/mykhailo/.yarnrc".
+verbose 0.270614008 Found configuration file "/home/mykhailo/.yarnrc".
+verbose 0.271190398 Checking for configuration file "/home/.yarnrc".
+verbose 0.276673729 current time: 2023-11-01T08:58:46.318Z
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+verbose 0.56470616 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-extglob-2.1.1-a88c02535791f02ed37c76a1b9ea9773c833f8c2-integrity/node_modules/is-extglob/LICENSE" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-extglob/LICENSE" is the same size (1087) and mtime (1693221164776).
+verbose 0.56486981 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-extglob-2.1.1-a88c02535791f02ed37c76a1b9ea9773c833f8c2-integrity/node_modules/is-extglob/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-extglob/README.md" is the same size (3469) and mtime (1693221164776).
+verbose 0.564997571 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-extglob-2.1.1-a88c02535791f02ed37c76a1b9ea9773c833f8c2-integrity/node_modules/is-extglob/index.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-extglob/index.js" is the same size (441) and mtime (1693221164776).
+verbose 0.565109283 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-extglob-2.1.1-a88c02535791f02ed37c76a1b9ea9773c833f8c2-integrity/node_modules/is-extglob/package.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-extglob/package.json" is the same size (1220) and mtime (1693221164776).
+verbose 0.565213876 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-glob-4.0.3-64f61e42cbbb2eec2071a9dac0b28ba1e65d5084-integrity/node_modules/is-glob/LICENSE" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-glob/LICENSE" is the same size (1088) and mtime (1693221164559).
+verbose 0.565328504 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-glob-4.0.3-64f61e42cbbb2eec2071a9dac0b28ba1e65d5084-integrity/node_modules/is-glob/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-glob/README.md" is the same size (7145) and mtime (1693221164559).
+verbose 0.565431599 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-glob-4.0.3-64f61e42cbbb2eec2071a9dac0b28ba1e65d5084-integrity/node_modules/is-glob/index.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-glob/index.js" is the same size (3628) and mtime (1693221164559).
+verbose 0.565533319 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-is-glob-4.0.3-64f61e42cbbb2eec2071a9dac0b28ba1e65d5084-integrity/node_modules/is-glob/package.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/is-glob/package.json" is the same size (1748) and mtime (1693221164559).
+verbose 0.565719491 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/CHANGELOG.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/CHANGELOG.md" is the same size (66352) and mtime (1693221164685).
+verbose 0.565830885 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/LICENSE.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/LICENSE.md" is the same size (1245) and mtime (1693221164685).
+verbose 0.565935743 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/README.md" is the same size (12881) and mtime (1693221164685).
+verbose 0.56603904 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/common.gypi" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/common.gypi" is the same size (762) and mtime (1693221164685).
+verbose 0.566157898 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/except.gypi" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/except.gypi" is the same size (381) and mtime (1693221164685).
+verbose 0.566265711 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/index.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/index.js" is the same size (296) and mtime (1693221164685).
+verbose 0.566367754 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/napi-inl.deprecated.h" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/napi-inl.deprecated.h" is the same size (7251) and mtime (1693221164685).
+verbose 0.566468372 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/napi-inl.h" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/napi-inl.h" is the same size (186981) and mtime (1693221164685).
+verbose 0.566566402 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/napi.h" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/napi.h" is the same size (111175) and mtime (1693221164685).
+verbose 0.566670645 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/node_api.gyp" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/node_api.gyp" is the same size (132) and mtime (1693221164685).
+verbose 0.566769189 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/noexcept.gypi" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/noexcept.gypi" is the same size (386) and mtime (1693221164685).
+verbose 0.566869178 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/nothing.c" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/nothing.c" is the same size (0) and mtime (1693221164685).
+verbose 0.566980754 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/package-support.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/package-support.json" is the same size (467) and mtime (1693221164685).
+verbose 0.56708206 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/package.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/package.json" is the same size (8171) and mtime (1693221164685).
+verbose 0.567184501 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/LICENSE" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/LICENSE" is the same size (1079) and mtime (1696405270497).
+verbose 0.567328483 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/README.md" is the same size (2485) and mtime (1696405270497).
+verbose 0.567431039 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/bin.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/bin.js" is the same size (2035) and mtime (1696405270497).
+verbose 0.5675309 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/build-test.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/build-test.js" is the same size (398) and mtime (1696405270497).
+verbose 0.567627125 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/index.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/index.js" is the same size (245) and mtime (1696405270497).
+verbose 0.567730948 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/node-gyp-build.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/node-gyp-build.js" is the same size (6050) and mtime (1696405270497).
+verbose 0.567828732 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/optional.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/optional.js" is the same size (143) and mtime (1696405270497).
+verbose 0.567929431 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-gyp-build-4.6.1-24b6d075e5e391b8d5539d98c7fc5c210cac8a3e-integrity/node_modules/node-gyp-build/package.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-gyp-build/package.json" is the same size (772) and mtime (1696405270497).
+verbose 0.568028813 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/CHANGELOG.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/CHANGELOG.md" is the same size (6203) and mtime (1693221164818).
+verbose 0.568163962 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/LICENSE" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/LICENSE" is the same size (1091) and mtime (1693221164818).
+verbose 0.568303595 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/README.md" is the same size (27445) and mtime (1693221164818).
+verbose 0.56840732 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/index.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/index.js" is the same size (60) and mtime (1693221164818).
+verbose 0.568514055 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/package.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/package.json" is the same size (1912) and mtime (1693221164818).
+verbose 0.568709968 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/LICENSE" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/LICENSE" is the same size (1077) and mtime (1693221164578).
+verbose 0.568831771 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/README.md" is the same size (6928) and mtime (1693221164578).
+verbose 0.568935447 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/binding.gyp" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/binding.gyp" is the same size (2117) and mtime (1693221164578).
+verbose 0.569225698 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/index.d.ts" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/index.d.ts" is the same size (1127) and mtime (1693221164578).
+verbose 0.569356312 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/index.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/index.js" is the same size (1942) and mtime (1693221164578).
+verbose 0.569467441 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/index.js.flow" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/index.js.flow" is the same size (998) and mtime (1693221164578).
+verbose 0.5695738 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/package.json" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/package.json" is the same size (1489) and mtime (1693221164578).
+verbose 0.571800087 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/tools/README.md" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/tools/README.md" is the same size (3217) and mtime (1693221164685).
+verbose 0.571921558 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/tools/check-napi.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/tools/check-napi.js" is the same size (3210) and mtime (1693221164685).
+verbose 0.572054196 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/tools/clang-format.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/tools/clang-format.js" is the same size (1912) and mtime (1693221164685).
+verbose 0.572160735 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-node-addon-api-3.2.1-81325e0a2117789c0128dab65e7e38f07ceba161-integrity/node_modules/node-addon-api/tools/conversion.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/node-addon-api/tools/conversion.js" is the same size (15275) and mtime (1693221164685).
+verbose 0.572271334 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/lib/constants.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/lib/constants.js" is the same size (4448) and mtime (1693221164818).
+verbose 0.572376338 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/lib/parse.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/lib/parse.js" is the same size (27763) and mtime (1693221164818).
+verbose 0.572478573 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/lib/picomatch.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/lib/picomatch.js" is the same size (9956) and mtime (1693221164818).
+verbose 0.572575426 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/lib/scan.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/lib/scan.js" is the same size (9189) and mtime (1693221164818).
+verbose 0.572673097 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-picomatch-2.3.1-3ba3833733646d9d3e4995946c1365a67fb07a42-integrity/node_modules/picomatch/lib/utils.js" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/picomatch/lib/utils.js" is the same size (1885) and mtime (1693221164818).
+verbose 0.572862764 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Backend.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Backend.cc" is the same size (3490) and mtime (1693221164578).
+verbose 0.572967914 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Backend.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Backend.hh" is the same size (861) and mtime (1693221164578).
+verbose 0.573067785 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Debounce.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Debounce.hh" is the same size (2471) and mtime (1693221164578).
+verbose 0.573168268 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/DirTree.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/DirTree.cc" is the same size (3615) and mtime (1693221164578).
+verbose 0.573274114 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/DirTree.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/DirTree.hh" is the same size (1185) and mtime (1693221164578).
+verbose 0.573382064 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Event.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Event.hh" is the same size (2196) and mtime (1693221164578).
+verbose 0.5734747 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Glob.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Glob.cc" is the same size (340) and mtime (1693221164578).
+verbose 0.573561964 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Glob.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Glob.hh" is the same size (500) and mtime (1693221164578).
+verbose 0.573670188 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/PromiseRunner.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/PromiseRunner.hh" is the same size (2492) and mtime (1693221164578).
+verbose 0.573769887 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Signal.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Signal.hh" is the same size (816) and mtime (1693221164578).
+verbose 0.573861152 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Watcher.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Watcher.cc" is the same size (5931) and mtime (1693221164578).
+verbose 0.573955471 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/Watcher.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/Watcher.hh" is the same size (1941) and mtime (1693221164578).
+verbose 0.574049637 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/binding.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/binding.cc" is the same size (6747) and mtime (1693221164578).
+verbose 0.575838148 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/prebuilds/darwin-arm64/node.napi.glibc.node" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/prebuilds/darwin-arm64/node.napi.glibc.node" is the same size (273648) and mtime (1693221164578).
+verbose 0.575957069 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/prebuilds/darwin-x64/node.napi.glibc.node" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/prebuilds/darwin-x64/node.napi.glibc.node" is the same size (306024) and mtime (1693221164578).
+verbose 0.576069562 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/prebuilds/win32-x64/node.napi.glibc.node" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/prebuilds/win32-x64/node.napi.glibc.node" is the same size (540672) and mtime (1693221164578).
+verbose 0.576174091 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/prebuilds/linux-x64/node.napi.glibc.node" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/prebuilds/linux-x64/node.napi.glibc.node" is the same size (515480) and mtime (1693221164578).
+verbose 0.576303571 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/prebuilds/linux-x64/node.napi.musl.node" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/prebuilds/linux-x64/node.napi.musl.node" is the same size (453696) and mtime (1693221164578).
+verbose 0.576412843 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/linux/InotifyBackend.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/linux/InotifyBackend.cc" is the same size (6834) and mtime (1693221164578).
+verbose 0.576521658 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/linux/InotifyBackend.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/linux/InotifyBackend.hh" is the same size (937) and mtime (1693221164578).
+verbose 0.576622819 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/macos/FSEventsBackend.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/macos/FSEventsBackend.cc" is the same size (10269) and mtime (1693221164578).
+verbose 0.576719976 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/macos/FSEventsBackend.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/macos/FSEventsBackend.hh" is the same size (555) and mtime (1693221164578).
+verbose 0.576815564 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/shared/BruteForceBackend.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/shared/BruteForceBackend.cc" is the same size (977) and mtime (1693221164578).
+verbose 0.576913773 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/shared/BruteForceBackend.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/shared/BruteForceBackend.hh" is the same size (721) and mtime (1693221164578).
+verbose 0.577010079 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/unix/fts.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/unix/fts.cc" is the same size (1179) and mtime (1693221164578).
+verbose 0.577104249 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/unix/legacy.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/unix/legacy.cc" is the same size (2184) and mtime (1693221164578).
+verbose 0.5771999 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/watchman/BSER.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/watchman/BSER.cc" is the same size (8032) and mtime (1693221164578).
+verbose 0.5773047 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/watchman/BSER.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/watchman/BSER.hh" is the same size (1517) and mtime (1693221164578).
+verbose 0.577418282 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/watchman/IPC.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/watchman/IPC.hh" is the same size (4120) and mtime (1693221164578).
+verbose 0.577533336 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.cc" is the same size (8435) and mtime (1693221164578).
+verbose 0.577630525 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.hh" is the same size (960) and mtime (1693221164578).
+verbose 0.577725078 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc" is the same size (8056) and mtime (1693221164578).
+verbose 0.57782651 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/windows/WindowsBackend.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/windows/WindowsBackend.hh" is the same size (356) and mtime (1693221164578).
+verbose 0.577922816 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/windows/win_utils.cc" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/windows/win_utils.cc" is the same size (1267) and mtime (1693221164578).
+verbose 0.578026376 Skipping copying of file "/home/mykhailo/.cache/yarn/v6/npm-@parcel-watcher-2.1.0-5f32969362db4893922c526a842d8af7a8538545-integrity/node_modules/@parcel/watcher/src/windows/win_utils.hh" as the file at "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/src/windows/win_utils.hh" is the same size (239) and mtime (1693221164578).
+verbose 0.578106504 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.578164802 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/Makefile" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.57822313 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/Release" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.578305942 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/binding.Makefile" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.578360902 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/config.gypi" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.578413761 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/node-addon-api" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.57847824 File "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/watcher.target.mk" would be marked as extraneous but has been removed as it's listed as a phantom file.
+verbose 0.579434617 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/CHANGELOG.md" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/CHANGELOG.md".
+verbose 0.580320075 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/LICENSE" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/LICENSE".
+verbose 0.580583887 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/README.md" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/README.md".
+verbose 0.580829089 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/index.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/index.js".
+verbose 0.581057861 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/package.json" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/package.json".
+verbose 0.581290465 Copying "/home/mykhailo/.cache/yarn/v6/npm-fill-range-7.0.1-1919a6a7c75fe38b2c7c77e5198535da9acdda40-integrity/node_modules/fill-range/LICENSE" to "/home/mykhailo/projects/node-gyp-test/node_modules/fill-range/LICENSE".
+verbose 0.581521789 Copying "/home/mykhailo/.cache/yarn/v6/npm-fill-range-7.0.1-1919a6a7c75fe38b2c7c77e5198535da9acdda40-integrity/node_modules/fill-range/README.md" to "/home/mykhailo/projects/node-gyp-test/node_modules/fill-range/README.md".
+verbose 0.581751128 Copying "/home/mykhailo/.cache/yarn/v6/npm-fill-range-7.0.1-1919a6a7c75fe38b2c7c77e5198535da9acdda40-integrity/node_modules/fill-range/index.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/fill-range/index.js".
+verbose 0.582132484 Copying "/home/mykhailo/.cache/yarn/v6/npm-fill-range-7.0.1-1919a6a7c75fe38b2c7c77e5198535da9acdda40-integrity/node_modules/fill-range/package.json" to "/home/mykhailo/projects/node-gyp-test/node_modules/fill-range/package.json".
+verbose 0.582435402 Copying "/home/mykhailo/.cache/yarn/v6/npm-is-number-7.0.0-7535345b896734d5f80c4d06c50955527a14f12b-integrity/node_modules/is-number/LICENSE" to "/home/mykhailo/projects/node-gyp-test/node_modules/is-number/LICENSE".
+verbose 0.582914995 Copying "/home/mykhailo/.cache/yarn/v6/npm-is-number-7.0.0-7535345b896734d5f80c4d06c50955527a14f12b-integrity/node_modules/is-number/README.md" to "/home/mykhailo/projects/node-gyp-test/node_modules/is-number/README.md".
+verbose 0.583269509 Copying "/home/mykhailo/.cache/yarn/v6/npm-is-number-7.0.0-7535345b896734d5f80c4d06c50955527a14f12b-integrity/node_modules/is-number/index.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/is-number/index.js".
+verbose 0.583491575 Copying "/home/mykhailo/.cache/yarn/v6/npm-is-number-7.0.0-7535345b896734d5f80c4d06c50955527a14f12b-integrity/node_modules/is-number/package.json" to "/home/mykhailo/projects/node-gyp-test/node_modules/is-number/package.json".
+verbose 0.583697123 Copying "/home/mykhailo/.cache/yarn/v6/npm-to-regex-range-5.0.1-1648c44aae7c8d988a326018ed72f5b4dd0392e4-integrity/node_modules/to-regex-range/LICENSE" to "/home/mykhailo/projects/node-gyp-test/node_modules/to-regex-range/LICENSE".
+verbose 0.584022224 Copying "/home/mykhailo/.cache/yarn/v6/npm-to-regex-range-5.0.1-1648c44aae7c8d988a326018ed72f5b4dd0392e4-integrity/node_modules/to-regex-range/README.md" to "/home/mykhailo/projects/node-gyp-test/node_modules/to-regex-range/README.md".
+verbose 0.584265559 Copying "/home/mykhailo/.cache/yarn/v6/npm-to-regex-range-5.0.1-1648c44aae7c8d988a326018ed72f5b4dd0392e4-integrity/node_modules/to-regex-range/index.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/to-regex-range/index.js".
+verbose 0.584485509 Copying "/home/mykhailo/.cache/yarn/v6/npm-to-regex-range-5.0.1-1648c44aae7c8d988a326018ed72f5b4dd0392e4-integrity/node_modules/to-regex-range/package.json" to "/home/mykhailo/projects/node-gyp-test/node_modules/to-regex-range/package.json".
+verbose 0.584723955 Copying "/home/mykhailo/.cache/yarn/v6/npm-micromatch-4.0.5-bc8999a7cbbf77cdc89f132f6e467051b49090c6-integrity/node_modules/micromatch/LICENSE" to "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/LICENSE".
+verbose 0.584931217 Copying "/home/mykhailo/.cache/yarn/v6/npm-micromatch-4.0.5-bc8999a7cbbf77cdc89f132f6e467051b49090c6-integrity/node_modules/micromatch/README.md" to "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/README.md".
+verbose 0.585314745 Copying "/home/mykhailo/.cache/yarn/v6/npm-micromatch-4.0.5-bc8999a7cbbf77cdc89f132f6e467051b49090c6-integrity/node_modules/micromatch/index.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/index.js".
+verbose 0.585550761 Copying "/home/mykhailo/.cache/yarn/v6/npm-micromatch-4.0.5-bc8999a7cbbf77cdc89f132f6e467051b49090c6-integrity/node_modules/micromatch/package.json" to "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/package.json".
+verbose 0.585756804 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/lib/compile.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/compile.js".
+verbose 0.58610894 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/lib/constants.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/constants.js".
+verbose 0.586318993 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/lib/expand.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/expand.js".
+verbose 0.586514456 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/lib/parse.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/parse.js".
+verbose 0.586701829 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/lib/stringify.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/stringify.js".
+verbose 0.586891988 Copying "/home/mykhailo/.cache/yarn/v6/npm-braces-3.0.2-3454e1a462ee8d599e236df336cd9ea4f8afe107-integrity/node_modules/braces/lib/utils.js" to "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/utils.js".
+verbose 0.5923665 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/.bin".
+verbose 0.596360507 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/abort-controller".
+verbose 0.602492997 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/core-auth".
+verbose 0.605890584 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/core-http".
+verbose 0.644789468 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/core-lro".
+verbose 0.648531295 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/core-paging".
+verbose 0.651214627 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/core-tracing".
+verbose 0.653243255 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/core-util".
+verbose 0.657533664 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/logger".
+verbose 0.660085389 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@azure/storage-blob".
+verbose 0.676128425 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@babel/code-frame".
+verbose 0.677715709 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@babel/helper-validator-identifier".
+verbose 0.679529031 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@babel/highlight".
+verbose 0.680879392 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@gulp-sourcemaps/identity-map".
+verbose 0.687476011 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@gulp-sourcemaps/map-sources".
+verbose 0.688442744 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@one-ini/wasm".
+verbose 0.689501639 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@opentelemetry/api".
+verbose 0.716627731 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/node-addon-api".
+verbose 0.717369247 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@trysound/sax".
+verbose 0.718355209 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@types/node".
+verbose 0.725407639 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@types/node-fetch".
+verbose 0.726066371 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@types/tunnel".
+verbose 0.726659458 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/abbrev".
+verbose 0.72731518 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/acorn".
+verbose 0.729299046 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/acorn-jsx".
+verbose 0.730786379 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ajv".
+verbose 0.738005237 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-colors".
+verbose 0.739003948 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-cyan".
+verbose 0.739643646 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-escapes".
+verbose 0.740235327 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-gray".
+verbose 0.740851096 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-red".
+verbose 0.741434701 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-regex".
+verbose 0.742008177 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-styles".
+verbose 0.742579843 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ansi-wrap".
+verbose 0.743164628 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/any-promise".
+verbose 0.746773836 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/anymatch".
+verbose 0.747634375 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/append-buffer".
+verbose 0.748439734 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/archy".
+verbose 0.750146547 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/argparse".
+verbose 0.753461563 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/arr-diff".
+verbose 0.754103238 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/arr-filter".
+verbose 0.754739899 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/arr-flatten".
+verbose 0.755393569 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/arr-map".
+verbose 0.756005195 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/arr-union".
+verbose 0.756711537 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-differ".
+verbose 0.757304285 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-each".
+verbose 0.757907977 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-initial".
+verbose 0.759469354 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-last".
+verbose 0.760874336 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-slice".
+verbose 0.761540849 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-sort".
+verbose 0.76289771 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-union".
+verbose 0.763618879 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-uniq".
+verbose 0.764274945 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/array-unique".
+verbose 0.764876658 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/arrify".
+verbose 0.765505519 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/assign-symbols".
+verbose 0.766369846 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/astral-regex".
+verbose 0.76723644 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/async-done".
+verbose 0.768221829 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/async-each".
+verbose 0.769054269 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/async-settle".
+verbose 0.769908044 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/asynckit".
+verbose 0.772309035 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/atob".
+verbose 0.773744645 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/bach".
+verbose 0.774893743 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/balanced-match".
+verbose 0.775733156 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/base".
+verbose 0.776932701 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/binary-extensions".
+verbose 0.777523531 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/binaryextensions".
+verbose 0.778204749 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/block-stream".
+verbose 0.778928706 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/boolbase".
+verbose 0.780206034 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/brace-expansion".
+verbose 0.781581429 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/buffer-equal".
+verbose 0.78310343 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/buffer-from".
+verbose 0.784345108 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/bytes".
+verbose 0.785245694 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/cache-base".
+verbose 0.785892388 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/call-bind".
+verbose 0.787286669 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/callsites".
+verbose 0.788062878 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/camelcase".
+verbose 0.788634134 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/chalk".
+verbose 0.789562366 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/chardet".
+verbose 0.790694704 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/chokidar".
+verbose 0.792045851 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/class-utils".
+verbose 0.792632152 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/cli-cursor".
+verbose 0.793216928 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/cli-width".
+verbose 0.794426456 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/cliui".
+verbose 0.796820652 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/clone".
+verbose 0.797525497 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/clone-buffer".
+verbose 0.79812431 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/clone-stats".
+verbose 0.798737838 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/cloneable-readable".
+verbose 0.799457292 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/code-point-at".
+verbose 0.800017926 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/collection-map".
+verbose 0.800575312 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/collection-visit".
+verbose 0.801112947 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/color-convert".
+verbose 0.80185597 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/color-name".
+verbose 0.802512169 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/color-support".
+verbose 0.803132466 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/combined-stream".
+verbose 0.804919669 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/commander".
+verbose 0.805981969 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/component-emitter".
+verbose 0.806659604 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/concat-map".
+verbose 0.807581321 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/concat-stream".
+verbose 0.808108001 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/concat-with-sourcemaps".
+verbose 0.808723247 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/config-chain".
+verbose 0.80923023 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/convert-source-map".
+verbose 0.809743713 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/copy-descriptor".
+verbose 0.810184912 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/copy-props".
+verbose 0.811516513 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/core-util-is".
+verbose 0.812216066 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/cross-spawn".
+verbose 0.813560321 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/css".
+verbose 0.816235304 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/css-select".
+verbose 0.820042292 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/css-tree".
+verbose 0.829804067 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/css-what".
+verbose 0.83208689 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/csso".
+verbose 0.837170058 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/d".
+verbose 0.838744539 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/debug".
+verbose 0.84113198 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/debug-fabulous".
+verbose 0.843485708 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/decamelize".
+verbose 0.844116236 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/decode-uri-component".
+verbose 0.844811052 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/deep-is".
+verbose 0.846103386 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/deepmerge".
+verbose 0.847650199 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/default-compare".
+verbose 0.849133826 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/default-resolution".
+verbose 0.849900032 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/define-data-property".
+verbose 0.851404755 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/define-properties".
+verbose 0.852451161 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/define-property".
+verbose 0.854691107 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/delayed-stream".
+verbose 0.855762872 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/detect-file".
+verbose 0.856541249 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/detect-indent".
+verbose 0.85745479 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/detect-newline".
+verbose 0.857999544 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/doctrine".
+verbose 0.85897356 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/dom-serializer".
+verbose 0.860367441 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/domelementtype".
+verbose 0.86173538 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/domhandler".
+verbose 0.862793386 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/domutils".
+verbose 0.865506393 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/duplexer".
+verbose 0.866356678 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/duplexify".
+verbose 0.867148253 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/each-props".
+verbose 0.86771695 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/editorconfig".
+verbose 0.876752497 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/emoji-regex".
+verbose 0.87763116 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/end-of-stream".
+verbose 0.878161038 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/entities".
+verbose 0.879645256 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/error-ex".
+verbose 0.880135196 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/es5-ext".
+verbose 0.912864012 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/es6-iterator".
+verbose 0.914974158 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/es6-symbol".
+verbose 0.91743342 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/es6-weak-map".
+verbose 0.91884869 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/escape-string-regexp".
+verbose 0.919402111 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/eslint".
+verbose 0.943831591 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/eslint-scope".
+verbose 0.945865692 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/eslint-utils".
+verbose 0.946714118 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/eslint-visitor-keys".
+verbose 0.947734 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/espree".
+verbose 0.949072642 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/esprima".
+verbose 0.950033052 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/esquery".
+verbose 0.951388296 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/esrecurse".
+verbose 0.951951211 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/estraverse".
+verbose 0.95270523 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/esutils".
+verbose 0.953716757 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/event-emitter".
+verbose 0.955765611 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/event-stream".
+verbose 0.959012107 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/events".
+verbose 0.961304046 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/expand-brackets".
+verbose 0.962311419 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/expand-tilde".
+verbose 0.962907589 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ext".
+verbose 0.977386587 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/extend".
+verbose 0.978442175 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/extend-shallow".
+verbose 0.979157676 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/external-editor".
+verbose 0.980983904 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/extglob".
+verbose 0.982539995 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fancy-log".
+verbose 0.983575448 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fast-deep-equal".
+verbose 0.984763461 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fast-json-stable-stringify".
+verbose 0.986336254 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fast-levenshtein".
+verbose 0.986867337 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/figures".
+verbose 0.987350726 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/file-entry-cache".
+verbose 0.987974157 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/find-up".
+verbose 0.988700959 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/findup-sync".
+verbose 0.989818869 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fined".
+verbose 0.990364117 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/flagged-respawn".
+verbose 0.991338398 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/flat-cache".
+verbose 0.99288276 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/flatted".
+verbose 0.994194405 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/flush-write-stream".
+verbose 0.994888274 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/for-in".
+verbose 0.995440789 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/for-own".
+verbose 0.995985579 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/form-data".
+verbose 0.997088439 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fragment-cache".
+verbose 0.997642849 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/from".
+verbose 0.99850022 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fs-mkdirp-stream".
+verbose 0.999149728 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fs.realpath".
+verbose 0.999743091 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/fstream".
+verbose 1.001812822 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/function-bind".
+verbose 1.003079747 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/functional-red-black-tree".
+verbose 1.003991709 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/get-caller-file".
+verbose 1.004696406 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/get-intrinsic".
+verbose 1.005813025 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/get-value".
+verbose 1.006377354 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/glob".
+verbose 1.007077704 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/glob-parent".
+verbose 1.008319892 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/glob-stream".
+verbose 1.008896095 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/glob-watcher".
+verbose 1.009905086 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/global-modules".
+verbose 1.010428469 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/global-prefix".
+verbose 1.011330662 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/globals".
+verbose 1.011899942 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/glogg".
+verbose 1.012411372 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gopd".
+verbose 1.013285849 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/graceful-fs".
+verbose 1.013950377 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp".
+verbose 1.014996524 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-azure-storage".
+verbose 1.016036926 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-bom".
+verbose 1.019834997 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-buffer".
+verbose 1.024187056 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-cli".
+verbose 1.034840497 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-concat".
+verbose 1.035564867 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-eslint".
+verbose 1.036835289 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-filter".
+verbose 1.03952083 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-flatmap".
+verbose 1.042371192 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-gunzip".
+verbose 1.043730473 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-gzip".
+verbose 1.045589064 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-json-editor".
+verbose 1.050084516 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-plumber".
+verbose 1.053188698 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-postcss".
+verbose 1.054319676 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-rename".
+verbose 1.054878668 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-replace".
+verbose 1.05551283 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-sourcemaps".
+verbose 1.057052125 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-svgmin".
+verbose 1.05821327 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulp-untar".
+verbose 1.063874015 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/gulplog".
+verbose 1.064540663 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-ansi".
+verbose 1.06507259 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-flag".
+verbose 1.065772684 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-property-descriptors".
+verbose 1.06682061 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-proto".
+verbose 1.06785202 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-symbols".
+verbose 1.06914858 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-value".
+verbose 1.069707367 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/has-values".
+verbose 1.071076385 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/hasown".
+verbose 1.072150619 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/homedir-polyfill".
+verbose 1.072737627 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/hosted-git-info".
+verbose 1.073555069 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/iconv-lite".
+verbose 1.076056812 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ignore".
+verbose 1.07697322 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/import-fresh".
+verbose 1.077710848 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/imurmurhash".
+verbose 1.078406706 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/inflight".
+verbose 1.078977605 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/inherits".
+verbose 1.079657088 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ini".
+verbose 1.080647093 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/inquirer".
+verbose 1.084989119 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/interpret".
+verbose 1.085819889 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/invert-kv".
+verbose 1.086349666 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-absolute".
+verbose 1.086884402 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-accessor-descriptor".
+verbose 1.087994948 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-arrayish".
+verbose 1.088981675 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-binary-path".
+verbose 1.089541966 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-buffer".
+verbose 1.090389312 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-core-module".
+verbose 1.092000162 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-data-descriptor".
+verbose 1.09328365 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-descriptor".
+verbose 1.094621205 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-extendable".
+verbose 1.095293481 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-fullwidth-code-point".
+verbose 1.095913056 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-negated-glob".
+verbose 1.096537893 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-plain-object".
+verbose 1.097248107 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-promise".
+verbose 1.097895525 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-relative".
+verbose 1.098442173 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-stream".
+verbose 1.0990926 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-unc-path".
+verbose 1.099694075 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-utf8".
+verbose 1.100214837 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-valid-glob".
+verbose 1.10076202 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/is-windows".
+verbose 1.101283915 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/isarray".
+verbose 1.102022419 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/isexe".
+verbose 1.103837923 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/isobject".
+verbose 1.104412458 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/istextorbinary".
+verbose 1.105390085 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/js-beautify".
+verbose 1.109909646 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/js-tokens".
+verbose 1.110571818 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/js-yaml".
+verbose 1.114057262 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/json-schema-traverse".
+verbose 1.115297416 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/json-stable-stringify-without-jsonify".
+verbose 1.116642728 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/just-debounce".
+verbose 1.117479464 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/kind-of".
+verbose 1.117998605 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/last-run".
+verbose 1.118501518 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lazystream".
+verbose 1.119419986 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lcid".
+verbose 1.119949134 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lead".
+verbose 1.120425658 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/levn".
+verbose 1.121194049 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/liftoff".
+verbose 1.123209132 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lilconfig".
+verbose 1.12430414 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/load-json-file".
+verbose 1.125044692 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/locate-path".
+verbose 1.125825067 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lodash".
+verbose 1.179727735 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lodash.clonedeep".
+verbose 1.180556547 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lru-cache".
+verbose 1.181174588 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/lru-queue".
+verbose 1.182318121 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/make-iterator".
+verbose 1.183711358 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/map-cache".
+verbose 1.184295411 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/map-stream".
+verbose 1.185506269 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/map-visit".
+verbose 1.186168776 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/matchdep".
+verbose 1.187376406 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mdn-data".
+verbose 1.189622398 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/memoizee".
+verbose 1.191847606 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mime".
+verbose 1.19295908 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mime-db".
+verbose 1.193708708 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mime-types".
+verbose 1.194375519 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mimic-fn".
+verbose 1.194975224 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/minimatch".
+verbose 1.196242213 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/minimist".
+verbose 1.198307767 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mixin-deep".
+verbose 1.199744881 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mkdirp".
+verbose 1.20062676 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ms".
+verbose 1.201231936 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/multimatch".
+verbose 1.201823659 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mute-stdout".
+verbose 1.202376041 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/mute-stream".
+verbose 1.204484214 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/nanomatch".
+verbose 1.207430188 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/natural-compare".
+verbose 1.207945235 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/next-tick".
+verbose 1.20912346 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/nice-try".
+verbose 1.209968816 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/node-fetch".
+verbose 1.211024766 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/nopt".
+verbose 1.21190937 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/normalize-package-data".
+verbose 1.213462277 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/normalize-path".
+verbose 1.214071698 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/now-and-later".
+verbose 1.215006374 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/nth-check".
+verbose 1.218179692 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/number-is-nan".
+verbose 1.218904033 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object-assign".
+verbose 1.219473064 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object-copy".
+verbose 1.219949914 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object-keys".
+verbose 1.22102151 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object-visit".
+verbose 1.221549548 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object.assign".
+verbose 1.223339803 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object.defaults".
+verbose 1.224174211 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object.map".
+verbose 1.224749858 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object.pick".
+verbose 1.225525837 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/object.reduce".
+verbose 1.226160782 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/once".
+verbose 1.226764641 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/onetime".
+verbose 1.227370464 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/optionator".
+verbose 1.228621904 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ordered-read-streams".
+verbose 1.229132864 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/os-locale".
+verbose 1.229631264 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/os-tmpdir".
+verbose 1.230114019 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/p-limit".
+verbose 1.230674703 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/p-locate".
+verbose 1.231212774 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/p-try".
+verbose 1.23183244 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/parent-module".
+verbose 1.232416865 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/parse-filepath".
+verbose 1.232994015 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/parse-json".
+verbose 1.233891944 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/parse-node-version".
+verbose 1.234576238 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/parse-passwd".
+verbose 1.235115436 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pascalcase".
+verbose 1.235655429 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-dirname".
+verbose 1.23614846 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-exists".
+verbose 1.23673569 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-is-absolute".
+verbose 1.237374839 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-is-inside".
+verbose 1.23811304 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-key".
+verbose 1.238716433 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-parse".
+verbose 1.239358475 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-root".
+verbose 1.239987787 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-root-regex".
+verbose 1.240685687 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/path-type".
+verbose 1.241281512 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pause-stream".
+verbose 1.242160164 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/picocolors".
+verbose 1.242979259 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pify".
+verbose 1.243658713 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pinkie".
+verbose 1.244286563 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pinkie-promise".
+verbose 1.245234021 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/plugin-error".
+verbose 1.247072202 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/posix-character-classes".
+verbose 1.247741927 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/postcss".
+verbose 1.250838484 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/postcss-load-config".
+verbose 1.251942788 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/prelude-ls".
+verbose 1.253197945 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pretty-hrtime".
+verbose 1.253950397 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/process".
+verbose 1.254718885 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/process-nextick-args".
+verbose 1.255324697 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/progress".
+verbose 1.256409438 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/proto-list".
+verbose 1.257526449 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pump".
+verbose 1.258475546 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/pumpify".
+verbose 1.259188535 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/punycode".
+verbose 1.25992082 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/queue".
+verbose 1.261804079 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/read-pkg".
+verbose 1.262484496 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/read-pkg-up".
+verbose 1.264289081 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/readable-stream".
+verbose 1.26712536 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/readdirp".
+verbose 1.267912725 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/rechoir".
+verbose 1.2694594 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/regex-not".
+verbose 1.271063336 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/regexpp".
+verbose 1.272243264 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/remove-bom-buffer".
+verbose 1.272940201 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/remove-bom-stream".
+verbose 1.274305094 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/remove-trailing-separator".
+verbose 1.274968127 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/repeat-element".
+verbose 1.275600784 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/repeat-string".
+verbose 1.27618733 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/replace-ext".
+verbose 1.276867837 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/replace-homedir".
+verbose 1.278105649 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/replacestream".
+verbose 1.278780574 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/require-directory".
+verbose 1.27967754 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/require-main-filename".
+verbose 1.280405666 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/resolve".
+verbose 1.291292943 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/resolve-dir".
+verbose 1.292010765 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/resolve-from".
+verbose 1.292676237 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/resolve-options".
+verbose 1.293327941 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/resolve-url".
+verbose 1.294545904 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/restore-cursor".
+verbose 1.29514829 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/ret".
+verbose 1.296177961 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/rimraf".
+verbose 1.296781253 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/run-async".
+verbose 1.297330404 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/rxjs".
+verbose 1.504354495 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/safe-buffer".
+verbose 1.505099551 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/safe-regex".
+verbose 1.506120905 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/safer-buffer".
+verbose 1.506851256 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/sax".
+verbose 1.507527459 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/semver".
+verbose 1.508235613 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/semver-greatest-satisfied-range".
+verbose 1.508784791 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/set-blocking".
+verbose 1.50944797 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/set-function-length".
+verbose 1.510500492 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/set-value".
+verbose 1.510999702 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/shebang-command".
+verbose 1.511521128 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/shebang-regex".
+verbose 1.512095504 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/signal-exit".
+verbose 1.512735015 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/slice-ansi".
+verbose 1.513354729 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/snapdragon".
+verbose 1.516499632 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/snapdragon-node".
+verbose 1.517572219 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/snapdragon-util".
+verbose 1.518085016 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/source-map".
+verbose 1.519609051 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/source-map-resolve".
+verbose 1.520890706 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/source-map-url".
+verbose 1.521531857 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/sparkles".
+verbose 1.522229234 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/spdx-correct".
+verbose 1.522781553 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/spdx-exceptions".
+verbose 1.523276211 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/spdx-expression-parse".
+verbose 1.523909884 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/spdx-license-ids".
+verbose 1.524439426 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/split".
+verbose 1.525657843 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/split-string".
+verbose 1.527295672 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/sprintf-js".
+verbose 1.529309518 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/stable".
+verbose 1.530185611 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/stack-trace".
+verbose 1.531751346 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/static-extend".
+verbose 1.532346734 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/stream-combiner".
+verbose 1.533504088 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/stream-exhaust".
+verbose 1.534160312 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/stream-shift".
+verbose 1.534900878 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/stream-to-array".
+verbose 1.535537034 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/streamfilter".
+verbose 1.53708896 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/streamifier".
+verbose 1.537927239 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/string-width".
+verbose 1.539129923 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/string_decoder".
+verbose 1.539988251 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/strip-ansi".
+verbose 1.540579641 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/strip-bom".
+verbose 1.54118733 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/strip-bom-string".
+verbose 1.541775598 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/strip-json-comments".
+verbose 1.542447616 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/supports-color".
+verbose 1.54311177 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/supports-preserve-symlinks-flag".
+verbose 1.544466023 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/sver-compat".
+verbose 1.545208414 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/svgo".
+verbose 1.551099196 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/table".
+verbose 1.558217499 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/tar".
+verbose 1.565232107 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/text-table".
+verbose 1.566673184 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/textextensions".
+verbose 1.567298789 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/through".
+verbose 1.568392067 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/through2".
+verbose 1.568937365 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/through2-filter".
+verbose 1.569516397 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/time-stamp".
+verbose 1.570031488 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/timers-ext".
+verbose 1.571945134 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/tmp".
+verbose 1.572668961 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/to-absolute-glob".
+verbose 1.573346338 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/to-object-path".
+verbose 1.573903926 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/to-regex".
+verbose 1.575487937 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/to-through".
+verbose 1.576050114 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/tr46".
+verbose 1.576797683 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/tslib".
+verbose 1.578140356 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/tunnel".
+verbose 1.579246164 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/type".
+verbose 1.589481296 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/type-check".
+verbose 1.590446365 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/typedarray".
+verbose 1.591486196 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/unc-path-regex".
+verbose 1.591986969 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/undertaker".
+verbose 1.593549268 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/undertaker-registry".
+verbose 1.594086414 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/undici-types".
+verbose 1.596225279 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/union-value".
+verbose 1.596832933 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/unique-stream".
+verbose 1.5974305 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/unset-value".
+verbose 1.59965345 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/upath".
+verbose 1.601579411 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/uri-js".
+verbose 1.605289966 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/urix".
+verbose 1.606249941 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/use".
+verbose 1.60697338 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/util-deprecate".
+verbose 1.607770432 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/uuid".
+verbose 1.612189858 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/v8flags".
+verbose 1.613002305 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/validate-npm-package-license".
+verbose 1.613745695 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/value-or-function".
+verbose 1.614477198 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/vinyl".
+verbose 1.616138801 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/vinyl-fs".
+verbose 1.619456506 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/vinyl-sourcemap".
+verbose 1.620434634 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/vinyl-sourcemaps-apply".
+verbose 1.623434349 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/webidl-conversions".
+verbose 1.624669113 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/whatwg-url".
+verbose 1.62612919 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/which".
+verbose 1.627401285 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/which-module".
+verbose 1.628495459 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/word-wrap".
+verbose 1.629403014 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/wrap-ansi".
+verbose 1.633176204 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/wrappy".
+verbose 1.633964372 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/write".
+verbose 1.635149151 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/xml2js".
+verbose 1.636249497 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/xmlbuilder".
+verbose 1.639490717 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/xtend".
+verbose 1.640342939 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/y18n".
+verbose 1.641046119 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/yallist".
+verbose 1.641821836 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/yaml".
+verbose 1.646213093 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/yargs".
+verbose 1.651680626 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/yargs-parser".
+verbose 1.653336042 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/CHANGELOG.md".
+verbose 1.653592173 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/lib".
+verbose 1.65426895 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules".
+verbose 1.657650556 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/lib/.DS_Store".
+verbose 1.657808404 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/lib/cache.js".
+verbose 1.657933136 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/lib/compilers.js".
+verbose 1.658044953 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/lib/parsers.js".
+verbose 1.658170096 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/lib/utils.js".
+verbose 1.658297757 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/node_modules".
+verbose 1.659872325 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules/.bin".
+verbose 1.660018269 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules/braces".
+verbose 1.660141192 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules/fill-range".
+verbose 1.660252267 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules/is-number".
+verbose 1.660380781 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules/micromatch".
+verbose 1.660489347 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/node_modules/to-regex-range".
+verbose 1.660600696 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/node_modules/define-property".
+verbose 1.660714353 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/node_modules/extend-shallow".
+verbose 1.660814836 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/node_modules/is-extendable".
+verbose 1.660919081 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/micromatch/node_modules/kind-of".
+verbose 1.661023675 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/braces.js".
+verbose 1.661203999 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/compilers.js".
+verbose 1.661443283 Removing extraneous file "/home/mykhailo/projects/node-gyp-test/node_modules/braces/lib/parsers.js".
+[4/4] Rebuilding all packages...
+verbose 28.688590824 gyp info it worked if it ends with ok
+gyp info using node-gyp@10.0.0
+gyp info using node@18.18.2 | linux | x64
+gyp info find Python using Python version 3.9.13 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/home/mykhailo/.config/yarn/global/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/mykhailo/.config/yarn/global/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/mykhailo/.cache/node-gyp/18.18.2/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/mykhailo/.cache/node-gyp/18.18.2',
+gyp info spawn args '-Dnode_gyp_dir=/home/mykhailo/.config/yarn/global/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/mykhailo/.cache/node-gyp/18.18.2/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp info spawn make
+gyp info spawn args [ 'BUILDTYPE=Release', '-C', 'build' ]
+make: Entering directory '/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build'
+  CC(target) Release/obj.target/nothing/../../node-addon-api/nothing.o
+rm -f Release/obj.target/../../node-addon-api/nothing.a Release/obj.target/../../node-addon-api/nothing.a.ar-file-list; mkdir -p `dirname Release/obj.target/../../node-addon-api/nothing.a`
+ar crs Release/obj.target/../../node-addon-api/nothing.a @Release/obj.target/../../node-addon-api/nothing.a.ar-file-list
+  COPY Release/nothing.a
+  CXX(target) Release/obj.target/watcher/src/binding.o
+  CXX(target) Release/obj.target/watcher/src/Watcher.o
+  CXX(target) Release/obj.target/watcher/src/Backend.o
+  CXX(target) Release/obj.target/watcher/src/DirTree.o
+  CXX(target) Release/obj.target/watcher/src/Glob.o
+  CXX(target) Release/obj.target/watcher/src/watchman/BSER.o
+  CXX(target) Release/obj.target/watcher/src/watchman/WatchmanBackend.o
+  CXX(target) Release/obj.target/watcher/src/shared/BruteForceBackend.o
+  CXX(target) Release/obj.target/watcher/src/linux/InotifyBackend.o
+  CXX(target) Release/obj.target/watcher/src/unix/legacy.o
+  SOLINK_MODULE(target) Release/obj.target/watcher.node
+  COPY Release/watcher.node
+make: Leaving directory '/home/mykhailo/projects/node-gyp-test/node_modules/@parcel/watcher/build'
+gyp info ok
+success Saved lockfile.
+Done in 28.49s.

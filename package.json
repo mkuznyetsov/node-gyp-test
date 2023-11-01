@@ -1,0 +1,10 @@
+{
+  "name": "cachito-project-stub",
+  "version": "0.0.1",
+  "description": "This project exists to provide yarn.lock for dependencies, that need to be fetched via Cachito (as yarn dependencies), before the Code project build.",
+  "dependencies": {
+    "@parcel/watcher": "2.1.0"
+  },
+  "scripts": {
+  }
+}
